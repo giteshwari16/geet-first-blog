@@ -14,5 +14,4 @@ Geet is genuinely excited about this change, but she also has a nagging question
 
 **What do you think? Does using a tool like Gemini for creative work make the final product less valuable? Or is it simply a new tool for a new era? Share your perspective below!**
 
- !http://googleusercontent.com/image_generation_content/0
-
+ images/geet-gemini-review.png
