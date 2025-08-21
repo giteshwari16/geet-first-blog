@@ -1,4 +1,4 @@
-"Beyond the Search Results: My First Look at Perplexity AI! "
+"#Beyond the Search Results: My First Look at Perplexity AI! "
 
 Just when I thought I was getting the hang of this AI co-pilot thing, a new name started buzzing in the digital sphere—**Perplexity AI**. Intrigued by its promise of going beyond simple answers to provide comprehensive summaries with citations, I decided to take it for a spin.
 
