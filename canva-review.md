@@ -1,4 +1,4 @@
-# From Blank Canvas to Masterpiece: My Review of Canva 🎨✨
+# From Blank Canvas to Masterpiece: My Review of Canva
 
 For a long time, my relationship with visual design was... complicated. I've always had ideas for graphics, presentations, and social media posts, but bringing them to life felt like an insurmountable task. I lacked the skills and the expensive software of professional designers, so my visual content was often either non-existent or painfully amateurish.
 
