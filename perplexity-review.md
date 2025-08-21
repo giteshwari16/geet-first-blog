@@ -1,4 +1,6 @@
-"Beyond the Search Results: My First Look at Perplexity AI!"
+                                                                               "Beyond the Search Results: My First Look at Perplexity AI!"
+
+
 Just when I thought I was getting the hang of this AI co-pilot thing, a new name started buzzing in the digital sphere—Perplexity AI. Intrigued by its promise of going beyond simple answers to provide comprehensive summaries with citations, I decided to take it for a spin.
 
 My experience with traditional search engines often feels like wading through a digital ocean, hoping to stumble upon the specific pearl of information I need. Perplexity AI offered a different approach, more akin to having a research assistant who not only finds the information but also provides concise summaries and, crucially, cites their sources. This felt like a significant leap, especially in a world where discerning reliable information online is becoming increasingly vital.
